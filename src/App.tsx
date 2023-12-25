@@ -68,7 +68,7 @@ function App() {
         }}
       >
         <img
-          src="src/assets/rick.jpg"
+          src="/assets/rick.jpg"
           alt="Rick admiring his toilet"
           style={{
             width: '300px',

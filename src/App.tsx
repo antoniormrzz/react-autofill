@@ -2,7 +2,7 @@ import { useCallback, useEffect, useState } from 'react'
 import Autofill from './components/Autofill/Autofill'
 import { RickAndMortyCharacter } from './types'
 
-import './App.css'
+import './app.css'
 
 function App() {
   const [selected, setSelected] = useState<RickAndMortyCharacter[]>([])
